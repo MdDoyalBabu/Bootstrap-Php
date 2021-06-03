@@ -1,0 +1,17 @@
+.tutorial{
+    padding: 5% 10%;
+    text-align: center;
+}
+.tutorial-icon
+{
+    color: salmon;
+   
+}
+.tutorial-icon:hover{
+    color:red;
+}
+p{
+    color: gray;
+    font-size: small;
+    text-align: center;
+}
